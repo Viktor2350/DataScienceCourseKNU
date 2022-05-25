@@ -1,2 +1,1 @@
 # DataScienceCourseKNU
-Hello World
